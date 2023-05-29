@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Club\ClubTopPanel\ClubCashOutPanel.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Hall\CreateGamePopup.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GamePopup\MatchInfoPopup.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GamePopup\InsurancePanel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Net\MessageManagerGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game\PlayInfo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game\GameUIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game\MyController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GamePopup\ManagerSetPopup.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Net\InterfaceGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game\Paicontrol.cs" Line="1" Column="1" />
+      <File FileName="Assets\FrameWork\Models\UI\BasePopup.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Club\ClubManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Hall\Item\CardItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\FrameWork\Models\Server\Net\NetMngr.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Club\ClubTopPanel\ClubCashOutPanel.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\work\game\dezhou\Assets\Scripts\GamePopup\SelectPanel.cs" line="159" column="1" />
+      <Breakpoint file="D:\work\game\dezhou\Assets\Scripts\GamePopup\SelectPanel.cs" line="168" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

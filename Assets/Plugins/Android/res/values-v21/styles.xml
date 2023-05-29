@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="UnityThemeSelector" parent="android:Theme.Material.Light.NoActionBar.Fullscreen">
+</style>
+
+ <style name="AppTheme" parent="">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

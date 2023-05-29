@@ -1,0 +1,12 @@
+二维码生成插件                         DrawQRCode.unitypackage
+视频播放插件                           Easy Movie Texture Video Texture3.5.4.unitypackage
+触屏插件                               Easy Touch 5 Touchscreen Virtual Controls v5.0.8 (Apr 20, 2016).unitypackage
+原生相册读取插件                       Image and Video Picker.unitypackage
+拍照插件                               IvpockerBase.unitypackage
+日志查看插件                           Log Viewer.unitypackage
+各种效果Scroller插件                   Optimized+ScrollView+Adapter+ListView+GridView.unitypackage
+ShareSDK（不带IOS一键打包）插件        ShareSDKForU3D.unitypackage
+ShareSDK（带IOS一键打包）插件          ShareSDKForU3DWithEditor.unitypackage
+剪贴板插件                             UniClipboard.unitypackage
+支付插件                               AndroidIOSPay
+安卓拉起APK安装                        installApk

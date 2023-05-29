@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.dezhou_v1_ios", "UnityVS.dezhou_v1_ios.csproj", "{B27686CC-4BA4-6510-C83E-DE5B9D17361A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.dezhou_v1_ios.Plugins", "UnityVS.dezhou_v1_ios.Plugins.csproj", "{F55C9128-21DA-970F-AB89-509F83C09DA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.dezhou_v1_ios.Editor", "UnityVS.dezhou_v1_ios.Editor.csproj", "{D628D04A-2924-BB2F-1756-90A6F6A0EE93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B27686CC-4BA4-6510-C83E-DE5B9D17361A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B27686CC-4BA4-6510-C83E-DE5B9D17361A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B27686CC-4BA4-6510-C83E-DE5B9D17361A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B27686CC-4BA4-6510-C83E-DE5B9D17361A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F55C9128-21DA-970F-AB89-509F83C09DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55C9128-21DA-970F-AB89-509F83C09DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55C9128-21DA-970F-AB89-509F83C09DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55C9128-21DA-970F-AB89-509F83C09DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D628D04A-2924-BB2F-1756-90A6F6A0EE93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D628D04A-2924-BB2F-1756-90A6F6A0EE93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D628D04A-2924-BB2F-1756-90A6F6A0EE93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D628D04A-2924-BB2F-1756-90A6F6A0EE93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
