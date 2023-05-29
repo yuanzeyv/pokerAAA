@@ -1,0 +1,27 @@
+
+#///////////////////////////
+# Cocos Creator 3D Project
+#///////////////////////////
+library/
+Temp/
+local/
+build/
+profiles/
+hotupdate-assets/
+
+native/engine/android/app/release
+
+#//////////////////////////
+# VSCode
+#//////////////////////////
+.vscode/
+
+#//////////////////////////
+# WebStorm
+#//////////////////////////
+.idea/
+extensions/ccc-devtools-v3.zip
+extensions/ccc-devtools-v3/__MACOSX/ccc-devtools-manager/._.DS_Store
+extensions/ccc-devtools-v3/__MACOSX/ccc-devtools-manager/node_modules/._.DS_Store
+
+*.apk
